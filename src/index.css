@@ -82,4 +82,13 @@ body {
     cursor: pointer;
     transition: background-color 0.3s ease;
   }
+
+  #names {
+    color: #fff;
+    font-size: 3ex;
+  }
+
+  #tit {
+    font-size: 7ex;
+  }
   
