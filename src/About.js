@@ -9,7 +9,7 @@ class About extends Component {
           started as a restaurant review platform and has since expanded to 
           become one of the largest food delivery services in India and around
           the world. Today, Zomato operates in over 24 countries and 
-          provides access to over 1.5 million restaurants worldwide. The app 
+          provides access to over 1.4 million restaurants worldwide. The app 
           offers a range of features, including menus, photos, ratings, and 
           reviews, to help users find and order food from their favorite 
           restaurants.<br></br> <br></br>In addition to food delivery, Zomato has also
